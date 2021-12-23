@@ -29,3 +29,9 @@ A branch 'main' contém o projeto inicial e as demais a evolução do projeto: m
 - Revisão da lógica de conversão negociações
 - Método estáticos
 - Parâmetros opcionais
+
+## Final
+- Remoção de comentários do código compilado
+- Ativação do strictNullChecks
+- Como suprimir erros, quando fizer sentido, resultantes do strictNullChecks
+- Benefícios do strictNullChecks no controle do fluxo da sua aplicação
