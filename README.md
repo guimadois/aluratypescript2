@@ -10,7 +10,7 @@ Projeto inicial
 
 ## Herança e Abstract
 
-Herança com TypeScript
-Classes com tipo genérico
-Classes abstratas
+Herança com TypeScript;
+Classes com tipo genérico;
+Classes abstratas;
 O modificador protected
