@@ -25,7 +25,7 @@ A branch 'main' contém o projeto inicial e as demais a evolução do projeto: m
 - Vantagens do uso de enums
 - Cuidados com enums
 
-## 
+## Conversão entrada
 - Revisão da lógica de conversão negociações
 - Método estáticos
 - Parâmetros opcionais
