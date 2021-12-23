@@ -17,3 +17,10 @@ A branch 'main' contém o projeto inicial e as demais a evolução do projeto: m
 - Classes com tipo genérico;
 - Classes abstratas;
 - O modificador protected
+
+## Private Methods e Apenas dias da semana
+
+- Visibilidade de métodos
+- Validando negociações em dias úteis
+- Vantagens do uso de enums
+- Cuidados com enums
