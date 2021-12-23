@@ -24,3 +24,8 @@ A branch 'main' contém o projeto inicial e as demais a evolução do projeto: m
 - Validando negociações em dias úteis
 - Vantagens do uso de enums
 - Cuidados com enums
+
+## 
+- Revisão da lógica de conversão negociações
+- Método estáticos
+- Parâmetros opcionais
