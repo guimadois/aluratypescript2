@@ -6,11 +6,14 @@ A branch 'main' contém o projeto inicial e as demais a evolução do projeto: m
 
 ## Main
 
-Projeto inicial
+- Inspiração no React para criação de templates declarativos e dinâmicos
+- Manipulação declarativa do DOM através de template
+- Template dinâmico
+- Formatação de datas usando Intl
 
 ## Herança e Abstract
 
-Herança com TypeScript;
-Classes com tipo genérico;
-Classes abstratas;
-O modificador protected
+- Herança com TypeScript;
+- Classes com tipo genérico;
+- Classes abstratas;
+- O modificador protected
